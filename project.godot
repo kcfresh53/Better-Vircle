@@ -11,8 +11,9 @@ config_version=5
 [application]
 
 config/name="Better Vircle"
+config/tags=PackedStringArray("tool")
 config/features=PackedStringArray("4.2", "GL Compatibility")
-config/icon="res://icon.svg"
+config/icon="res://addons/better_vircle/icon.svg"
 
 [rendering]
 
