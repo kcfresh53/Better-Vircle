@@ -1,4 +1,4 @@
-# Godot 4 Debug Camera
+# Better Vircle
 
 This plugin adds a Control Node which places its children Nodes in a circle. You can change the radius of the circle and the size of all of the elements. You can also make them spin!.
 
